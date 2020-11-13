@@ -1,0 +1,10 @@
+name: intro_python_ds_tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas=1.0.1
+  - iris=2.4.0
+  - scikit-learn=0.23.2
+  - jupyterlab
+prefix: C:\Users\stephen\.conda\envs\intro_python_ds_tutorial
