@@ -1,4 +1,4 @@
-# intro_python_data_analysis
+# Introduction to Python for Data Analysis
 A series of tutorial notebooks on getting started with Python for Data Analysis
 
 ## Conda Environment
