@@ -11,6 +11,11 @@ This will create an environment called `intro_python_ds_tutorial`. You can use b
 
 `conda activate intro_python_ds_tutorial`
 
+### Interactive examples
+
+Some of the example use the interactive Jupyter Widgets feature of Jupyter notebooks. In order for this to work properly from a conda environment, you may have to run an additional command:
+`jupyter labextension install @jupyter-widgets/jupyterlab-manager`
+
 
 
 
